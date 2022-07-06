@@ -1,0 +1,15 @@
+Front end- React js
+Backend API - Node js
+DB - Mongodb
+
+
+
+
+for admin page, go to http://localhost:3000/admin then login with henry@admin.com
+
+
+To auto generate Ticket i used math.random method
+
+
+to run client = yarn start
+to run server = yarn dev
